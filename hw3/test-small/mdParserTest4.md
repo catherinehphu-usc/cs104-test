@@ -1,0 +1,1 @@
+[$this is empty link .... i swear%]() h0w i$ EveRyOnE doing~~~~~~ [but did you see                 *^%$#@ that sublime meme on pIaZZa?](memes4life.md) [this HW was pretty hard ^*^](whatYouThink.txt           

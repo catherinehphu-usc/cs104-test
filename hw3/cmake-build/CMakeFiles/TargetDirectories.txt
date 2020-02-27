@@ -1,0 +1,3 @@
+/home/cs104/test_git_repo/cs104-tests/hw3/cmake-build/CMakeFiles/edit_cache.dir
+/home/cs104/test_git_repo/cs104-tests/hw3/cmake-build/CMakeFiles/rebuild_cache.dir
+/home/cs104/test_git_repo/cs104-tests/hw3/cmake-build/CMakeFiles/gtest.dir

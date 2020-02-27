@@ -1,0 +1,3 @@
+INCOMING nonexistent.txt
+OUTGOING nonexistent.txt
+AND t
